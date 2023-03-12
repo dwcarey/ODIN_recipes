@@ -9,9 +9,9 @@ a {
   }
 h1 {
     font-size: 100px;
-    color: rgb(0, 255, 13);
+    color: #00ff0d;
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(255, 0, 140);
+    background-color: #ff008c;
     text-align: center;
 }
 .page-images {
@@ -30,7 +30,7 @@ h1 {
 }
 
 .main-bg {
-    background-image: linear-gradient(to left,rgb(0, 141, 71),rgb(0, 138, 148));
+    background-image: linear-gradient(to left,#008d47,#008a94);
     background-repeat: no-repeat;
     background-color: transparent;
     background-size: contain;
@@ -39,37 +39,37 @@ h1 {
 
 
 #lasagna-bg {
-background-image: linear-gradient(to left,rgb(78, 5, 5),rgb(247, 193, 94));
-color: rgb(10, 0, 95);
+background-image: linear-gradient(to left,#4e0505,#f7c15e);
+color: #0a005f;
 }
 
 #iced-cream-bg {
-background-image: linear-gradient(to left,rgb(234, 255, 200),rgb(255, 0, 0));
+background-image: linear-gradient(to left,#eaffc8,#ff0000);
 color: rgb(10, 0, 95);
 }
 
 #cake-bg {
-background-image: linear-gradient(to left,rgb(0, 255, 76),rgb(132, 0, 165));
+background-image: linear-gradient(to left,#00ff4c,#8400a5);
 color: rgb(10, 0, 95);
 }
 
 .back-button {
     font-size: 50px;
-    color: orangered;
-    background-color: blueviolet;
+    color: #ff4500;
+    background-color: #8a2be2;
 }
 
 h2 {
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
     font-size: 46px;
-    color: rgb(192, 0, 0);
+    color: #c00000;
     text-align: left;
 }
 
 h3 {
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
-    color: rgb(192, 0, 0);
+    color: #c00000;
     text-align: left;
 }
 p {

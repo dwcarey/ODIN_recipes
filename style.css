@@ -1,35 +1,77 @@
-ul {
-    list-style-type: none;
-    text-align: center;
+
+.list-format{
+    line-height: 2;
+    text-align: left;
 }
 
 a {
     text-decoration: none;
-    color: aqua; 
-}
-.main-title {
+  }
+h1 {
     font-size: 100px;
     color: rgb(0, 255, 13);
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
     background-color: rgb(255, 0, 140);
     text-align: center;
 }
-
-ul,
-li,
-a{
-    line-height: 2;
-    background-color: rgb(3, 2, 77);
+.page-images {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .contents-list {
     font-size: 80px;  
+    list-style-type: none;
+    text-align: center;
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
 }
 
 .main-bg {
-    background-image: linear-gradient(to left,rgb(82, 0, 68),orange);
+    background-image: linear-gradient(to left,rgb(0, 141, 71),rgb(0, 138, 148));
     background-repeat: no-repeat;
     background-color: transparent;
     background-size: contain;
     background-attachment: fixed;
+}
+
+
+#lasagna-bg {
+background-image: linear-gradient(to left,rgb(78, 5, 5),rgb(247, 193, 94));
+color: rgb(10, 0, 95);
+}
+
+#iced-cream-bg {
+background-image: linear-gradient(to left,rgb(234, 255, 200),rgb(255, 0, 0));
+color: rgb(10, 0, 95);
+}
+
+#cake-bg {
+background-image: linear-gradient(to left,rgb(0, 255, 76),rgb(132, 0, 165));
+color: rgb(10, 0, 95);
+}
+
+.back-button {
+    font-size: 50px;
+    color: orangered;
+    background-color: blueviolet;
+}
+
+h2 {
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    font-size: 46px;
+    color: rgb(192, 0, 0);
+    text-align: left;
+}
+
+h3 {
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: rgb(192, 0, 0);
+    text-align: left;
+}
+p {
+    text-align: left;
 }

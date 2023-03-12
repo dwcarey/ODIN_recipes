@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: aqua; 
+}
+.main-title {
+    font-size: 100px;
+    color: rgb(0, 255, 13);
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 0, 140);
+    text-align: center;
+}
+
+ul,
+li,
+a{
+    line-height: 2;
+    background-color: rgb(3, 2, 77);
+}
+.contents-list {
+    font-size: 80px;  
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+
+.main-bg {
+    background-image: linear-gradient(to left,rgb(82, 0, 68),orange);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-size: contain;
+    background-attachment: fixed;
+}

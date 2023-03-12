@@ -45,12 +45,17 @@ color: #0a005f;
 
 #iced-cream-bg {
 background-image: linear-gradient(to left,#eaffc8,#ff0000);
-color: rgb(10, 0, 95);
+color: #0a005f;
 }
 
 #cake-bg {
 background-image: linear-gradient(to left,#00ff4c,#8400a5);
-color: rgb(10, 0, 95);
+color: #0a005f;
+}
+
+#ziv-bg {
+background-image: linear-gradient(to left,#1f1f1f,#e7e2ff);
+color: #0a005f;
 }
 
 .back-button {
@@ -74,4 +79,8 @@ h3 {
 }
 p {
     text-align: left;
+}
+
+#no-list-style {
+    list-style-type: none;
 }
